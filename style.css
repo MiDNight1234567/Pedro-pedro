@@ -8,7 +8,7 @@
 }
 
 .audio {
-  display: none;
+  /* display: none; */
 }
 
 @media screen and (min-width: 320px) and (max-width: 375px) {
